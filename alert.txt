@@ -1,0 +1,1 @@
+Column is_admin in table authorization has been changed.
